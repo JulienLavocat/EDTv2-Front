@@ -1,0 +1,2052 @@
+[
+    {
+        "id": "i7aMk6Q4BUqvu-h_byJzt",
+        "raw_start": "20200908T140000",
+        "raw_end": "20200908T152000",
+        "start_date": "2020-09-08T12:00:00.000Z",
+        "end_date": "2020-09-08T13:20:00.000Z",
+        "name": "Remédiation Maths",
+        "type": "Groupes",
+        "location": "A29/ Salle 102"
+    },
+    {
+        "id": "1EeqfHXweCLmbgbdqAVLG",
+        "raw_start": "20200908T153000",
+        "raw_end": "20200908T165000",
+        "start_date": "2020-09-08T13:30:00.000Z",
+        "end_date": "2020-09-08T14:50:00.000Z",
+        "name": "4TTV103U Culture et Compétences Numériques",
+        "type": "Groupes",
+        "location": "A21/Salle Informatique B"
+    },
+    {
+        "id": "wkJt62F-rcnVGqoRML1TU",
+        "raw_start": "20200911T080000",
+        "raw_end": "20200911T092000",
+        "start_date": "2020-09-11T06:00:00.000Z",
+        "end_date": "2020-09-11T07:20:00.000Z",
+        "name": "Remédiation Maths",
+        "type": "Groupes",
+        "location": "A22/ Salle 103"
+    },
+    {
+        "id": "F3H3nlFFZFyDGOap-JeIj",
+        "raw_start": "20200911T110000",
+        "raw_end": "20200911T122000",
+        "start_date": "2020-09-11T09:00:00.000Z",
+        "end_date": "2020-09-11T10:20:00.000Z",
+        "name": "MTU",
+        "type": "Groupes",
+        "location": "A22/ Salle 115"
+    },
+    {
+        "id": "yPsi7UMzpvBKa5kQEDRYf",
+        "raw_start": "20200915T140000",
+        "raw_end": "20200915T152000",
+        "start_date": "2020-09-15T12:00:00.000Z",
+        "end_date": "2020-09-15T13:20:00.000Z",
+        "name": "Remédiation Maths",
+        "type": "Groupes",
+        "location": "A29/ Salle 102"
+    },
+    {
+        "id": "AyweySIO1JStVPpN9HNQo",
+        "raw_start": "20200915T153000",
+        "raw_end": "20200915T165000",
+        "start_date": "2020-09-15T13:30:00.000Z",
+        "end_date": "2020-09-15T14:50:00.000Z",
+        "name": "4TTV103U Culture et Compétences Numériques",
+        "type": "Groupes",
+        "location": "A21/Salle Informatique B"
+    },
+    {
+        "id": "jUgnV0X1o_Cmk3SKHWoiY",
+        "raw_start": "20200918T080000",
+        "raw_end": "20200918T092000",
+        "start_date": "2020-09-18T06:00:00.000Z",
+        "end_date": "2020-09-18T07:20:00.000Z",
+        "name": "Remédiation Maths",
+        "type": "Groupes",
+        "location": "A22/ Salle 103"
+    },
+    {
+        "id": "Z7sbFpuCtUo8NNRfwGWeb",
+        "raw_start": "20200918T110000",
+        "raw_end": "20200918T122000",
+        "start_date": "2020-09-18T09:00:00.000Z",
+        "end_date": "2020-09-18T10:20:00.000Z",
+        "name": "MTU",
+        "type": "Groupes",
+        "location": "A22/ Salle 115"
+    },
+    {
+        "id": "0pHXgWQu2xOHIXJIG9oYc",
+        "raw_start": "20200921T103000",
+        "raw_end": "20200921T130000",
+        "start_date": "2020-09-21T08:30:00.000Z",
+        "end_date": "2020-09-21T11:00:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "AtIZDNzrfTtnd7DmOzDrw",
+        "raw_start": "20200921T140000",
+        "raw_end": "20200921T152000",
+        "start_date": "2020-09-21T12:00:00.000Z",
+        "end_date": "2020-09-21T13:20:00.000Z",
+        "name": "4TPV105U Unité du vivant",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "aYHgcH49X38nHRYTF-oWh",
+        "raw_start": "20200921T153000",
+        "raw_end": "20200921T165000",
+        "start_date": "2020-09-21T13:30:00.000Z",
+        "end_date": "2020-09-21T14:50:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "AEAXe5m-x7npF1tWACDVq",
+        "raw_start": "20200921T170000",
+        "raw_end": "20200921T182000",
+        "start_date": "2020-09-21T15:00:00.000Z",
+        "end_date": "2020-09-21T16:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 205"
+    },
+    {
+        "id": "YbZg0eZQ5fJA-mk12X6Pr",
+        "raw_start": "20200922T093000",
+        "raw_end": "20200922T105000",
+        "start_date": "2020-09-22T07:30:00.000Z",
+        "end_date": "2020-09-22T08:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 102"
+    },
+    {
+        "id": "sCP_MjIxrSgqFX7QaXYof",
+        "raw_start": "20200922T110000",
+        "raw_end": "20200922T122000",
+        "start_date": "2020-09-22T09:00:00.000Z",
+        "end_date": "2020-09-22T10:20:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "lNXkmYJcA16l31Aar3AJE",
+        "raw_start": "20200922T140000",
+        "raw_end": "20200922T152000",
+        "start_date": "2020-09-22T12:00:00.000Z",
+        "end_date": "2020-09-22T13:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "QC7ve5Mb1eDX5iCo4q2bt",
+        "raw_start": "20200922T153000",
+        "raw_end": "20200922T165000",
+        "start_date": "2020-09-22T13:30:00.000Z",
+        "end_date": "2020-09-22T14:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "1-S24Zke79-WdPt8-3XWz",
+        "raw_start": "20200922T170000",
+        "raw_end": "20200922T182000",
+        "start_date": "2020-09-22T15:00:00.000Z",
+        "end_date": "2020-09-22T16:20:00.000Z",
+        "name": "4TTV103U Culture et Compétences Numériques",
+        "type": "Groupes",
+        "location": "A21/Salle Informatique B"
+    },
+    {
+        "id": "uuF0jWWnPcxQLtUzpZKVv",
+        "raw_start": "20200923T080000",
+        "raw_end": "20200923T092000",
+        "start_date": "2020-09-23T06:00:00.000Z",
+        "end_date": "2020-09-23T07:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": "A21/ Salle 405"
+    },
+    {
+        "id": "qlHfaoNnjTSDdnkPd9UOm",
+        "raw_start": "20200923T093000",
+        "raw_end": "20200923T105000",
+        "start_date": "2020-09-23T07:30:00.000Z",
+        "end_date": "2020-09-23T08:50:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": ""
+    },
+    {
+        "id": "L7x50jaXjNGYXkLOa_fp9",
+        "raw_start": "20200923T140000",
+        "raw_end": "20200923T152000",
+        "start_date": "2020-09-23T12:00:00.000Z",
+        "end_date": "2020-09-23T13:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 150"
+    },
+    {
+        "id": "Ms5aSAn_QhueAMzJ-5co6",
+        "raw_start": "20200923T140000",
+        "raw_end": "20200923T152000",
+        "start_date": "2020-09-23T12:00:00.000Z",
+        "end_date": "2020-09-23T13:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 152"
+    },
+    {
+        "id": "HhCtBMTBg5N2TO6HjrArn",
+        "raw_start": "20200923T183000",
+        "raw_end": "20200923T203000",
+        "start_date": "2020-09-23T16:30:00.000Z",
+        "end_date": "2020-09-23T18:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "CBEPLwlI61tNDHSe7AxNu",
+        "raw_start": "20200924T153000",
+        "raw_end": "20200924T165000",
+        "start_date": "2020-09-24T13:30:00.000Z",
+        "end_date": "2020-09-24T14:50:00.000Z",
+        "name": "4TPV105U Unité du vivant",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "ftS4_2s-r734CJsjma79d",
+        "raw_start": "20200925T080000",
+        "raw_end": "20200925T092000",
+        "start_date": "2020-09-25T06:00:00.000Z",
+        "end_date": "2020-09-25T07:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 101"
+    },
+    {
+        "id": "HpHaZjTns3ChRoXzjzAVA",
+        "raw_start": "20200925T110000",
+        "raw_end": "20200925T122000",
+        "start_date": "2020-09-25T09:00:00.000Z",
+        "end_date": "2020-09-25T10:20:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 101"
+    },
+    {
+        "id": "yqoGowpykXjwsC7sec6bb",
+        "raw_start": "20200925T140000",
+        "raw_end": "20200925T180000",
+        "start_date": "2020-09-25T12:00:00.000Z",
+        "end_date": "2020-09-25T16:00:00.000Z",
+        "name": "4TPV105U Unité du vivant",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "pWtxX4P_FRZp1g8NlIRS_",
+        "raw_start": "20200928T103000",
+        "raw_end": "20200928T130000",
+        "start_date": "2020-09-28T08:30:00.000Z",
+        "end_date": "2020-09-28T11:00:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "U4INu_2XRWAVTr-gR1B3M",
+        "raw_start": "20200928T153000",
+        "raw_end": "20200928T165000",
+        "start_date": "2020-09-28T13:30:00.000Z",
+        "end_date": "2020-09-28T14:50:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "sGiM75pgkjDzhC8hELDxY",
+        "raw_start": "20200928T170000",
+        "raw_end": "20200928T182000",
+        "start_date": "2020-09-28T15:00:00.000Z",
+        "end_date": "2020-09-28T16:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 205"
+    },
+    {
+        "id": "5HputoHETpqVuajXb4BVU",
+        "raw_start": "20200929T093000",
+        "raw_end": "20200929T105000",
+        "start_date": "2020-09-29T07:30:00.000Z",
+        "end_date": "2020-09-29T08:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 102"
+    },
+    {
+        "id": "qtCVjQ7B1_hYdIt5yDBUl",
+        "raw_start": "20200929T110000",
+        "raw_end": "20200929T122000",
+        "start_date": "2020-09-29T09:00:00.000Z",
+        "end_date": "2020-09-29T10:20:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "cZsDq_YRmK_McAD1Vqwx3",
+        "raw_start": "20200929T140000",
+        "raw_end": "20200929T152000",
+        "start_date": "2020-09-29T12:00:00.000Z",
+        "end_date": "2020-09-29T13:20:00.000Z",
+        "name": "4TPV105U Unité du vivant",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "gmoxwHNy_P7GE23mP7g8o",
+        "raw_start": "20200929T153000",
+        "raw_end": "20200929T165000",
+        "start_date": "2020-09-29T13:30:00.000Z",
+        "end_date": "2020-09-29T14:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "E96bHk4zBGXUMQ3wFXBFY",
+        "raw_start": "20200930T080000",
+        "raw_end": "20200930T092000",
+        "start_date": "2020-09-30T06:00:00.000Z",
+        "end_date": "2020-09-30T07:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": "A21/ Salle 405"
+    },
+    {
+        "id": "M882FiTmmUjuvYhNmvB7_",
+        "raw_start": "20200930T093000",
+        "raw_end": "20200930T105000",
+        "start_date": "2020-09-30T07:30:00.000Z",
+        "end_date": "2020-09-30T08:50:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": ""
+    },
+    {
+        "id": "qP6MKib04hH-rQfX_8JdH",
+        "raw_start": "20200930T140000",
+        "raw_end": "20200930T152000",
+        "start_date": "2020-09-30T12:00:00.000Z",
+        "end_date": "2020-09-30T13:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 150"
+    },
+    {
+        "id": "85KprCErGdNyEQLYgnQc2",
+        "raw_start": "20200930T140000",
+        "raw_end": "20200930T152000",
+        "start_date": "2020-09-30T12:00:00.000Z",
+        "end_date": "2020-09-30T13:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 152"
+    },
+    {
+        "id": "RKgCxuEL_Dho4vHIZXVh-",
+        "raw_start": "20200930T183000",
+        "raw_end": "20200930T203000",
+        "start_date": "2020-09-30T16:30:00.000Z",
+        "end_date": "2020-09-30T18:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "h6xIk2D4klSl-2-wVf36x",
+        "raw_start": "20201001T110000",
+        "raw_end": "20201001T122000",
+        "start_date": "2020-10-01T09:00:00.000Z",
+        "end_date": "2020-10-01T10:20:00.000Z",
+        "name": "4TPV106U  Méthodologie Chimie",
+        "type": "Groupes",
+        "location": "A29/ Salle 103"
+    },
+    {
+        "id": "32oqaFZAjPhpf5D_wIYYp",
+        "raw_start": "20201001T153000",
+        "raw_end": "20201001T165000",
+        "start_date": "2020-10-01T13:30:00.000Z",
+        "end_date": "2020-10-01T14:50:00.000Z",
+        "name": "4TPV105U Unité du vivant",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "KwIhMq_-vK6y3HAqXmeuL",
+        "raw_start": "20201002T080000",
+        "raw_end": "20201002T092000",
+        "start_date": "2020-10-02T06:00:00.000Z",
+        "end_date": "2020-10-02T07:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 101"
+    },
+    {
+        "id": "W4QJtOUfEya2QW2P__maH",
+        "raw_start": "20201002T110000",
+        "raw_end": "20201002T122000",
+        "start_date": "2020-10-02T09:00:00.000Z",
+        "end_date": "2020-10-02T10:20:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 101"
+    },
+    {
+        "id": "KrTMKW52jhDN0m_Rb_z7h",
+        "raw_start": "20201002T140000",
+        "raw_end": "20201002T180000",
+        "start_date": "2020-10-02T12:00:00.000Z",
+        "end_date": "2020-10-02T16:00:00.000Z",
+        "name": "4TPV105U Unité du vivant",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "Wvx7Arf5w2NDVWrWKpVQD",
+        "raw_start": "20201005T080000",
+        "raw_end": "20201005T092000",
+        "start_date": "2020-10-05T06:00:00.000Z",
+        "end_date": "2020-10-05T07:20:00.000Z",
+        "name": "4TPV105U Unité du vivant",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "BP3XNwAtcKviL4ty2NAuf",
+        "raw_start": "20201005T103000",
+        "raw_end": "20201005T130000",
+        "start_date": "2020-10-05T08:30:00.000Z",
+        "end_date": "2020-10-05T11:00:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "ZTIBfJ5m2i3XJ0LZtlo1h",
+        "raw_start": "20201005T153000",
+        "raw_end": "20201005T165000",
+        "start_date": "2020-10-05T13:30:00.000Z",
+        "end_date": "2020-10-05T14:50:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "wRFG2F5HCHjpLBFWe2WBN",
+        "raw_start": "20201005T170000",
+        "raw_end": "20201005T182000",
+        "start_date": "2020-10-05T15:00:00.000Z",
+        "end_date": "2020-10-05T16:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 205"
+    },
+    {
+        "id": "luwNG9hiCCAvDT7Ibbu6t",
+        "raw_start": "20201006T093000",
+        "raw_end": "20201006T105000",
+        "start_date": "2020-10-06T07:30:00.000Z",
+        "end_date": "2020-10-06T08:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 102"
+    },
+    {
+        "id": "oKMjJZptgSxlB8CIop_ib",
+        "raw_start": "20201006T110000",
+        "raw_end": "20201006T122000",
+        "start_date": "2020-10-06T09:00:00.000Z",
+        "end_date": "2020-10-06T10:20:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "W-mk3rg2xpv_Bu3ccznNa",
+        "raw_start": "20201006T140000",
+        "raw_end": "20201006T152000",
+        "start_date": "2020-10-06T12:00:00.000Z",
+        "end_date": "2020-10-06T13:20:00.000Z",
+        "name": "4TPV105U Unité du vivant",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN; A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "fzUzLMQcaApIp28AsAQme",
+        "raw_start": "20201006T153000",
+        "raw_end": "20201006T165000",
+        "start_date": "2020-10-06T13:30:00.000Z",
+        "end_date": "2020-10-06T14:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "cCEZrNHCz0JdNmiRhB9MI",
+        "raw_start": "20201006T170000",
+        "raw_end": "20201006T182000",
+        "start_date": "2020-10-06T15:00:00.000Z",
+        "end_date": "2020-10-06T16:20:00.000Z",
+        "name": "4TTV103U Culture et Compétences Numériques",
+        "type": "Groupes",
+        "location": "A21/Salle Informatique B"
+    },
+    {
+        "id": "Uo0kFYPi5rkli4JzXstpy",
+        "raw_start": "20201006T183000",
+        "raw_end": "20201006T203000",
+        "start_date": "2020-10-06T16:30:00.000Z",
+        "end_date": "2020-10-06T18:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "i90AMgaomMBcUi6BbakvR",
+        "raw_start": "20201007T080000",
+        "raw_end": "20201007T092000",
+        "start_date": "2020-10-07T06:00:00.000Z",
+        "end_date": "2020-10-07T07:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": "A21/ Salle 405"
+    },
+    {
+        "id": "f0wvnktrK95YeiWpOy_pJ",
+        "raw_start": "20201007T093000",
+        "raw_end": "20201007T105000",
+        "start_date": "2020-10-07T07:30:00.000Z",
+        "end_date": "2020-10-07T08:50:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": ""
+    },
+    {
+        "id": "4c-LCscCe0lua1mSjtbfz",
+        "raw_start": "20201007T140000",
+        "raw_end": "20201007T152000",
+        "start_date": "2020-10-07T12:00:00.000Z",
+        "end_date": "2020-10-07T13:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 150"
+    },
+    {
+        "id": "JptSRvH5jxdvpvZFL_B7V",
+        "raw_start": "20201007T140000",
+        "raw_end": "20201007T152000",
+        "start_date": "2020-10-07T12:00:00.000Z",
+        "end_date": "2020-10-07T13:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 152"
+    },
+    {
+        "id": "_v6QdT8wLw7aRNolw65kd",
+        "raw_start": "20201007T183000",
+        "raw_end": "20201007T203000",
+        "start_date": "2020-10-07T16:30:00.000Z",
+        "end_date": "2020-10-07T18:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "kyBx3RJdadYHGAURe9wLA",
+        "raw_start": "20201008T093000",
+        "raw_end": "20201008T105000",
+        "start_date": "2020-10-08T07:30:00.000Z",
+        "end_date": "2020-10-08T08:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": "A21/ Salle 403"
+    },
+    {
+        "id": "O6CMn1xlkU0aTCK5PdPJ9",
+        "raw_start": "20201008T110000",
+        "raw_end": "20201008T122000",
+        "start_date": "2020-10-08T09:00:00.000Z",
+        "end_date": "2020-10-08T10:20:00.000Z",
+        "name": "4TPV106U  Méthodologie Chimie",
+        "type": "Groupes",
+        "location": "A29/ Salle 103"
+    },
+    {
+        "id": "4gYToijQDVSZxO0cHtCVi",
+        "raw_start": "20201008T140000",
+        "raw_end": "20201008T152000",
+        "start_date": "2020-10-08T12:00:00.000Z",
+        "end_date": "2020-10-08T13:20:00.000Z",
+        "name": "4TPV105U Biologie Animale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "H-SCNE-q_EaZ4Q3bqn_0X",
+        "raw_start": "20201008T153000",
+        "raw_end": "20201008T165000",
+        "start_date": "2020-10-08T13:30:00.000Z",
+        "end_date": "2020-10-08T14:50:00.000Z",
+        "name": "4TPV105U Unité du vivant",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "COz5HfPS6tv0Ob9E5L04S",
+        "raw_start": "20201009T080000",
+        "raw_end": "20201009T092000",
+        "start_date": "2020-10-09T06:00:00.000Z",
+        "end_date": "2020-10-09T07:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 101"
+    },
+    {
+        "id": "aeMLxbnBao4LHUFW3f_kZ",
+        "raw_start": "20201009T110000",
+        "raw_end": "20201009T122000",
+        "start_date": "2020-10-09T09:00:00.000Z",
+        "end_date": "2020-10-09T10:20:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 101"
+    },
+    {
+        "id": "xja7skbEJKaZAd5XFdAle",
+        "raw_start": "20201012T080000",
+        "raw_end": "20201012T092000",
+        "start_date": "2020-10-12T06:00:00.000Z",
+        "end_date": "2020-10-12T07:20:00.000Z",
+        "name": "4TPV105U Unité du vivant",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "VH_gwyWtJS25MK_s_mpB8",
+        "raw_start": "20201012T103000",
+        "raw_end": "20201012T130000",
+        "start_date": "2020-10-12T08:30:00.000Z",
+        "end_date": "2020-10-12T11:00:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "0CCr-gUc8s1uw6DnBLaU4",
+        "raw_start": "20201012T153000",
+        "raw_end": "20201012T165000",
+        "start_date": "2020-10-12T13:30:00.000Z",
+        "end_date": "2020-10-12T14:50:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "V1rqF6wNwc1FXe-MixkKT",
+        "raw_start": "20201012T170000",
+        "raw_end": "20201012T182000",
+        "start_date": "2020-10-12T15:00:00.000Z",
+        "end_date": "2020-10-12T16:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 205"
+    },
+    {
+        "id": "QsHvdIOV-QrITjDhQqlF_",
+        "raw_start": "20201013T093000",
+        "raw_end": "20201013T105000",
+        "start_date": "2020-10-13T07:30:00.000Z",
+        "end_date": "2020-10-13T08:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 105"
+    },
+    {
+        "id": "NNGa6AItwzR1U02-naseE",
+        "raw_start": "20201013T110000",
+        "raw_end": "20201013T122000",
+        "start_date": "2020-10-13T09:00:00.000Z",
+        "end_date": "2020-10-13T10:20:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "pFWOsVv9BXyfpJwFp7kPG",
+        "raw_start": "20201013T140000",
+        "raw_end": "20201013T152000",
+        "start_date": "2020-10-13T12:00:00.000Z",
+        "end_date": "2020-10-13T13:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "23wIaP3r_WNdjyCvUnoD6",
+        "raw_start": "20201013T153000",
+        "raw_end": "20201013T165000",
+        "start_date": "2020-10-13T13:30:00.000Z",
+        "end_date": "2020-10-13T14:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "SwpuGEh2IYhYrWaX4H9i7",
+        "raw_start": "20201014T080000",
+        "raw_end": "20201014T092000",
+        "start_date": "2020-10-14T06:00:00.000Z",
+        "end_date": "2020-10-14T07:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": "A21/ Salle 405"
+    },
+    {
+        "id": "xiiDZbhQqj1vxv03ivofo",
+        "raw_start": "20201014T093000",
+        "raw_end": "20201014T105000",
+        "start_date": "2020-10-14T07:30:00.000Z",
+        "end_date": "2020-10-14T08:50:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": ""
+    },
+    {
+        "id": "Wkc5Ht1k40Ufph6K6oLMJ",
+        "raw_start": "20201014T183000",
+        "raw_end": "20201014T203000",
+        "start_date": "2020-10-14T16:30:00.000Z",
+        "end_date": "2020-10-14T18:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "Z88crXQ6SqUhAFGcFAu_5",
+        "raw_start": "20201015T140000",
+        "raw_end": "20201015T152000",
+        "start_date": "2020-10-15T12:00:00.000Z",
+        "end_date": "2020-10-15T13:20:00.000Z",
+        "name": "4TPV105U Biologie Animale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "7bQ89AK_ABUclpG8Q-Jru",
+        "raw_start": "20201015T153000",
+        "raw_end": "20201015T165000",
+        "start_date": "2020-10-15T13:30:00.000Z",
+        "end_date": "2020-10-15T14:50:00.000Z",
+        "name": "4TPV105U Biologie Microbienne",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "ulpkQ38HwRfYSSkNFambR",
+        "raw_start": "20201016T110000",
+        "raw_end": "20201016T122000",
+        "start_date": "2020-10-16T09:00:00.000Z",
+        "end_date": "2020-10-16T10:20:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A22/ Salle 104"
+    },
+    {
+        "id": "mEZZaSQTVY2999ZMJnos8",
+        "raw_start": "20201019T103000",
+        "raw_end": "20201019T130000",
+        "start_date": "2020-10-19T08:30:00.000Z",
+        "end_date": "2020-10-19T11:00:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "8x8c3JhmiWqLx4RhfP8cV",
+        "raw_start": "20201019T153000",
+        "raw_end": "20201019T165000",
+        "start_date": "2020-10-19T13:30:00.000Z",
+        "end_date": "2020-10-19T14:50:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "gMD1OzmRi3O6zO8-55ix8",
+        "raw_start": "20201019T170000",
+        "raw_end": "20201019T182000",
+        "start_date": "2020-10-19T15:00:00.000Z",
+        "end_date": "2020-10-19T16:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 205"
+    },
+    {
+        "id": "cZmK6TBMK3JuxoPrNbgKX",
+        "raw_start": "20201020T093000",
+        "raw_end": "20201020T105000",
+        "start_date": "2020-10-20T07:30:00.000Z",
+        "end_date": "2020-10-20T08:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A22/ Salle 203"
+    },
+    {
+        "id": "rBcy5wKIED-L8hcpmEYdn",
+        "raw_start": "20201020T110000",
+        "raw_end": "20201020T122000",
+        "start_date": "2020-10-20T09:00:00.000Z",
+        "end_date": "2020-10-20T10:20:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "nvD6z0GicPG9iF0LxYdjI",
+        "raw_start": "20201020T140000",
+        "raw_end": "20201020T152000",
+        "start_date": "2020-10-20T12:00:00.000Z",
+        "end_date": "2020-10-20T13:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "jLK2YAo6hr1gn258HAuAh",
+        "raw_start": "20201020T153000",
+        "raw_end": "20201020T165000",
+        "start_date": "2020-10-20T13:30:00.000Z",
+        "end_date": "2020-10-20T14:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "pvZ3DHiPqcgz9HZtolEsy",
+        "raw_start": "20201020T183000",
+        "raw_end": "20201020T203000",
+        "start_date": "2020-10-20T16:30:00.000Z",
+        "end_date": "2020-10-20T18:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "NiwE1xt-Em44VR8v1WQ4K",
+        "raw_start": "20201021T080000",
+        "raw_end": "20201021T092000",
+        "start_date": "2020-10-21T06:00:00.000Z",
+        "end_date": "2020-10-21T07:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": "A21/ Salle 405"
+    },
+    {
+        "id": "4c6Js_kgmqlZdNvdz6UBR",
+        "raw_start": "20201021T093000",
+        "raw_end": "20201021T105000",
+        "start_date": "2020-10-21T07:30:00.000Z",
+        "end_date": "2020-10-21T08:50:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": ""
+    },
+    {
+        "id": "8rKtSk_1mA4K853D6FL6j",
+        "raw_start": "20201021T140000",
+        "raw_end": "20201021T152000",
+        "start_date": "2020-10-21T12:00:00.000Z",
+        "end_date": "2020-10-21T13:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 150"
+    },
+    {
+        "id": "OK5PsNl76oYy7qei-XeZn",
+        "raw_start": "20201021T140000",
+        "raw_end": "20201021T152000",
+        "start_date": "2020-10-21T12:00:00.000Z",
+        "end_date": "2020-10-21T13:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 152"
+    },
+    {
+        "id": "-XXMYwoK-flO5ugYpnsO0",
+        "raw_start": "20201021T170000",
+        "raw_end": "20201021T182000",
+        "start_date": "2020-10-21T15:00:00.000Z",
+        "end_date": "2020-10-21T16:20:00.000Z",
+        "name": "4TPV105U Biologie Microbienne",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "kjx7nRroLPYjKDz289OI0",
+        "raw_start": "20201021T183000",
+        "raw_end": "20201021T203000",
+        "start_date": "2020-10-21T16:30:00.000Z",
+        "end_date": "2020-10-21T18:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "bYQSzRB32VVHlSyyI78Ip",
+        "raw_start": "20201022T110000",
+        "raw_end": "20201022T122000",
+        "start_date": "2020-10-22T09:00:00.000Z",
+        "end_date": "2020-10-22T10:20:00.000Z",
+        "name": "4TPV106U  Méthodologie Chimie",
+        "type": "Groupes",
+        "location": "A29/ Salle 103"
+    },
+    {
+        "id": "zV62YGrzyD9OPkNmaXb8x",
+        "raw_start": "20201022T153000",
+        "raw_end": "20201022T165000",
+        "start_date": "2020-10-22T13:30:00.000Z",
+        "end_date": "2020-10-22T14:50:00.000Z",
+        "name": "4TPV105U Biologie Microbienne",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "wZaEk1WPnEQnrKQPMR0Jz",
+        "raw_start": "20201022T170000",
+        "raw_end": "20201022T182000",
+        "start_date": "2020-10-22T15:00:00.000Z",
+        "end_date": "2020-10-22T16:20:00.000Z",
+        "name": "4TPV105U Biologie Animale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "jpluNfSW0yjWL71v5iNAA",
+        "raw_start": "20201023T080000",
+        "raw_end": "20201023T092000",
+        "start_date": "2020-10-23T06:00:00.000Z",
+        "end_date": "2020-10-23T07:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 101"
+    },
+    {
+        "id": "_acnBiLqDD7uleg4gZ9Fx",
+        "raw_start": "20201023T110000",
+        "raw_end": "20201023T122000",
+        "start_date": "2020-10-23T09:00:00.000Z",
+        "end_date": "2020-10-23T10:20:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 101"
+    },
+    {
+        "id": "e99hNPiE0iDCXQbtjs3qn",
+        "raw_start": "20201102T103000",
+        "raw_end": "20201102T130000",
+        "start_date": "2020-11-02T09:30:00.000Z",
+        "end_date": "2020-11-02T12:00:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "0G9Q6kvhKaLVAVYOkvwAz",
+        "raw_start": "20201102T140000",
+        "raw_end": "20201102T152000",
+        "start_date": "2020-11-02T13:00:00.000Z",
+        "end_date": "2020-11-02T14:20:00.000Z",
+        "name": "4TPV105U  Biologie Végétale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "UkmT4EODIvMCB0IgxpzYe",
+        "raw_start": "20201102T153000",
+        "raw_end": "20201102T165000",
+        "start_date": "2020-11-02T14:30:00.000Z",
+        "end_date": "2020-11-02T15:50:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "E0XZtVOrjL25T5ZW5clkR",
+        "raw_start": "20201102T170000",
+        "raw_end": "20201102T182000",
+        "start_date": "2020-11-02T16:00:00.000Z",
+        "end_date": "2020-11-02T17:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 205"
+    },
+    {
+        "id": "A9yykOvYnbfWq4eVTuxrx",
+        "raw_start": "20201103T093000",
+        "raw_end": "20201103T105000",
+        "start_date": "2020-11-03T08:30:00.000Z",
+        "end_date": "2020-11-03T09:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A22/ Salle 203"
+    },
+    {
+        "id": "ErUFIVyV_MWKHsPG7efce",
+        "raw_start": "20201103T110000",
+        "raw_end": "20201103T122000",
+        "start_date": "2020-11-03T10:00:00.000Z",
+        "end_date": "2020-11-03T11:20:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "aM0lJiYEnt77wKfkUwnya",
+        "raw_start": "20201103T140000",
+        "raw_end": "20201103T152000",
+        "start_date": "2020-11-03T13:00:00.000Z",
+        "end_date": "2020-11-03T14:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "KGZq0fGhyGs70BgRW7Fml",
+        "raw_start": "20201103T153000",
+        "raw_end": "20201103T165000",
+        "start_date": "2020-11-03T14:30:00.000Z",
+        "end_date": "2020-11-03T15:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "IFQce2rL1PSrLWQgdoc0y",
+        "raw_start": "20201103T183000",
+        "raw_end": "20201103T203000",
+        "start_date": "2020-11-03T17:30:00.000Z",
+        "end_date": "2020-11-03T19:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "6wZMmtmmzvg_xVyRNR_OD",
+        "raw_start": "20201104T080000",
+        "raw_end": "20201104T092000",
+        "start_date": "2020-11-04T07:00:00.000Z",
+        "end_date": "2020-11-04T08:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": "A21/ Salle 405"
+    },
+    {
+        "id": "SwD6Z24I3OSG4xN6xteW2",
+        "raw_start": "20201104T093000",
+        "raw_end": "20201104T105000",
+        "start_date": "2020-11-04T08:30:00.000Z",
+        "end_date": "2020-11-04T09:50:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": ""
+    },
+    {
+        "id": "A6bp2OSARvOSGfBxeOhby",
+        "raw_start": "20201104T140000",
+        "raw_end": "20201104T152000",
+        "start_date": "2020-11-04T13:00:00.000Z",
+        "end_date": "2020-11-04T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 150"
+    },
+    {
+        "id": "Z_UhW_UDXTrIb6fk45vgo",
+        "raw_start": "20201104T140000",
+        "raw_end": "20201104T152000",
+        "start_date": "2020-11-04T13:00:00.000Z",
+        "end_date": "2020-11-04T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 152"
+    },
+    {
+        "id": "OsmcpKJ8_dulAjfavmvS_",
+        "raw_start": "20201104T183000",
+        "raw_end": "20201104T203000",
+        "start_date": "2020-11-04T17:30:00.000Z",
+        "end_date": "2020-11-04T19:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "THNQQgvU02Yj5HmVKHyKQ",
+        "raw_start": "20201105T110000",
+        "raw_end": "20201105T122000",
+        "start_date": "2020-11-05T10:00:00.000Z",
+        "end_date": "2020-11-05T11:20:00.000Z",
+        "name": "4TPV106U  Méthodologie Chimie",
+        "type": "Groupes",
+        "location": "A29/ Salle 104"
+    },
+    {
+        "id": "mxPwfvmJX_5ugWIQnMcxN",
+        "raw_start": "20201105T140000",
+        "raw_end": "20201105T152000",
+        "start_date": "2020-11-05T13:00:00.000Z",
+        "end_date": "2020-11-05T14:20:00.000Z",
+        "name": "4TPV105U Biologie Animale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "i3Y5GizDIsDSK8dvfPtQ2",
+        "raw_start": "20201105T153000",
+        "raw_end": "20201105T165000",
+        "start_date": "2020-11-05T14:30:00.000Z",
+        "end_date": "2020-11-05T15:50:00.000Z",
+        "name": "4TPV105U Biologie Microbienne",
+        "type": "Groupes",
+        "location": "A22/ Salle 202"
+    },
+    {
+        "id": "mdKYCIz8VAPT1kHmmResW",
+        "raw_start": "20201106T080000",
+        "raw_end": "20201106T092000",
+        "start_date": "2020-11-06T07:00:00.000Z",
+        "end_date": "2020-11-06T08:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 101"
+    },
+    {
+        "id": "YYp9906uSQe9JHbFhnnqF",
+        "raw_start": "20201106T110000",
+        "raw_end": "20201106T122000",
+        "start_date": "2020-11-06T10:00:00.000Z",
+        "end_date": "2020-11-06T11:20:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 101"
+    },
+    {
+        "id": "QeDiAP4J6Qbe3BOoD0iSL",
+        "raw_start": "20201109T080000",
+        "raw_end": "20201109T092000",
+        "start_date": "2020-11-09T07:00:00.000Z",
+        "end_date": "2020-11-09T08:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": "A22/ Salle 114"
+    },
+    {
+        "id": "kRzz1GxJzxV1qktwxkmR2",
+        "raw_start": "20201109T093000",
+        "raw_end": "20201109T122000",
+        "start_date": "2020-11-09T08:30:00.000Z",
+        "end_date": "2020-11-09T11:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "3Zhep1e0etaytUBiM8_Ew",
+        "raw_start": "20201109T140000",
+        "raw_end": "20201109T152000",
+        "start_date": "2020-11-09T13:00:00.000Z",
+        "end_date": "2020-11-09T14:20:00.000Z",
+        "name": "4TPV105U  Biologie Végétale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "_dAje02U0LHfAUtIp6CMM",
+        "raw_start": "20201109T170000",
+        "raw_end": "20201109T182000",
+        "start_date": "2020-11-09T16:00:00.000Z",
+        "end_date": "2020-11-09T17:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 205"
+    },
+    {
+        "id": "1b5ii8Wp6-9VxnlaUS2Jq",
+        "raw_start": "20201109T183000",
+        "raw_end": "20201109T203000",
+        "start_date": "2020-11-09T17:30:00.000Z",
+        "end_date": "2020-11-09T19:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": ""
+    },
+    {
+        "id": "7OV_4Meeb0YxjZdjRZy_l",
+        "raw_start": "20201109T183000",
+        "raw_end": "20201109T203000",
+        "start_date": "2020-11-09T17:30:00.000Z",
+        "end_date": "2020-11-09T19:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": ""
+    },
+    {
+        "id": "BcDbYHXPw1zTi5daoWyuE",
+        "raw_start": "20201110T093000",
+        "raw_end": "20201110T105000",
+        "start_date": "2020-11-10T08:30:00.000Z",
+        "end_date": "2020-11-10T09:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 102"
+    },
+    {
+        "id": "ba4Ds83bE2-Onh4alcuYe",
+        "raw_start": "20201110T110000",
+        "raw_end": "20201110T122000",
+        "start_date": "2020-11-10T10:00:00.000Z",
+        "end_date": "2020-11-10T11:20:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "-CbojqZhCxGjQR98hdeBH",
+        "raw_start": "20201110T140000",
+        "raw_end": "20201110T152000",
+        "start_date": "2020-11-10T13:00:00.000Z",
+        "end_date": "2020-11-10T14:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "s4my_6rWF1fGoqSKXCSL6",
+        "raw_start": "20201110T153000",
+        "raw_end": "20201110T165000",
+        "start_date": "2020-11-10T14:30:00.000Z",
+        "end_date": "2020-11-10T15:50:00.000Z",
+        "name": "4TPV105U Biologie Animale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "vn5K6slk8ZW8_crp-5p2y",
+        "raw_start": "20201112T110000",
+        "raw_end": "20201112T122000",
+        "start_date": "2020-11-12T10:00:00.000Z",
+        "end_date": "2020-11-12T11:20:00.000Z",
+        "name": "4TPV106U  Méthodologie Chimie",
+        "type": "Groupes",
+        "location": "A29/ Salle 104"
+    },
+    {
+        "id": "gutJSue1G7jfntPNI8HqS",
+        "raw_start": "20201112T153000",
+        "raw_end": "20201112T165000",
+        "start_date": "2020-11-12T14:30:00.000Z",
+        "end_date": "2020-11-12T15:50:00.000Z",
+        "name": "4TPV105U Biologie Microbienne",
+        "type": "Groupes",
+        "location": "A22/ Salle 202"
+    },
+    {
+        "id": "LImmkaU9_KR7Ke6ebAxc4",
+        "raw_start": "20201113T080000",
+        "raw_end": "20201113T092000",
+        "start_date": "2020-11-13T07:00:00.000Z",
+        "end_date": "2020-11-13T08:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 101"
+    },
+    {
+        "id": "eZMjWh4tOsSTvd3cMxS2D",
+        "raw_start": "20201113T110000",
+        "raw_end": "20201113T122000",
+        "start_date": "2020-11-13T10:00:00.000Z",
+        "end_date": "2020-11-13T11:20:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "CREMI - Bât. A28 Salle 102"
+    },
+    {
+        "id": "HMhSrKn-KEwaVxZ4GdIQ1",
+        "raw_start": "20201113T140000",
+        "raw_end": "20201113T152000",
+        "start_date": "2020-11-13T13:00:00.000Z",
+        "end_date": "2020-11-13T14:20:00.000Z",
+        "name": "4TPV106U LCO/Culture",
+        "type": "Remarques",
+        "location": "A21/ Salle 153"
+    },
+    {
+        "id": "dPquV_hRyIURU_l2eaOxf",
+        "raw_start": "20201116T103000",
+        "raw_end": "20201116T130000",
+        "start_date": "2020-11-16T09:30:00.000Z",
+        "end_date": "2020-11-16T12:00:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "Hl7ss7YPP04eUceCZVyAE",
+        "raw_start": "20201116T140000",
+        "raw_end": "20201116T152000",
+        "start_date": "2020-11-16T13:00:00.000Z",
+        "end_date": "2020-11-16T14:20:00.000Z",
+        "name": "4TPV105U  Biologie Végétale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "uR7kk8T91UjxJ77HlUeIj",
+        "raw_start": "20201116T153000",
+        "raw_end": "20201116T165000",
+        "start_date": "2020-11-16T14:30:00.000Z",
+        "end_date": "2020-11-16T15:50:00.000Z",
+        "name": "4TPV105U Biologie Microbienne",
+        "type": "Groupes",
+        "location": "A22/ Salle 105"
+    },
+    {
+        "id": "LBwAb0V4wAOtqnnpf5UKE",
+        "raw_start": "20201116T170000",
+        "raw_end": "20201116T182000",
+        "start_date": "2020-11-16T16:00:00.000Z",
+        "end_date": "2020-11-16T17:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 105"
+    },
+    {
+        "id": "c6AL5ErHoG-LQaXbORE-c",
+        "raw_start": "20201117T093000",
+        "raw_end": "20201117T105000",
+        "start_date": "2020-11-17T08:30:00.000Z",
+        "end_date": "2020-11-17T09:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 102"
+    },
+    {
+        "id": "CxraAnuqSMbEPvMov_HoY",
+        "raw_start": "20201117T110000",
+        "raw_end": "20201117T122000",
+        "start_date": "2020-11-17T10:00:00.000Z",
+        "end_date": "2020-11-17T11:20:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "EUBTU5mQI0P5iUZLJ3YKO",
+        "raw_start": "20201117T140000",
+        "raw_end": "20201117T152000",
+        "start_date": "2020-11-17T13:00:00.000Z",
+        "end_date": "2020-11-17T14:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "st5-ZWebNyK0d-oyTcrxS",
+        "raw_start": "20201117T153000",
+        "raw_end": "20201117T165000",
+        "start_date": "2020-11-17T14:30:00.000Z",
+        "end_date": "2020-11-17T15:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "wS2-0QQJDZ3ftnNLd_txN",
+        "raw_start": "20201118T080000",
+        "raw_end": "20201118T092000",
+        "start_date": "2020-11-18T07:00:00.000Z",
+        "end_date": "2020-11-18T08:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": "A21/ Salle 405"
+    },
+    {
+        "id": "gCh-IfT4yvR5iPw3_nicU",
+        "raw_start": "20201118T093000",
+        "raw_end": "20201118T105000",
+        "start_date": "2020-11-18T08:30:00.000Z",
+        "end_date": "2020-11-18T09:50:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": ""
+    },
+    {
+        "id": "dYTNMiJr5JR-l4Rj6_ung",
+        "raw_start": "20201118T140000",
+        "raw_end": "20201118T152000",
+        "start_date": "2020-11-18T13:00:00.000Z",
+        "end_date": "2020-11-18T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 150"
+    },
+    {
+        "id": "p-Lu-vA5gF9JS9eOloOXJ",
+        "raw_start": "20201118T140000",
+        "raw_end": "20201118T152000",
+        "start_date": "2020-11-18T13:00:00.000Z",
+        "end_date": "2020-11-18T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 152"
+    },
+    {
+        "id": "LHunDk57BDanY0UUGW-9e",
+        "raw_start": "20201118T183000",
+        "raw_end": "20201118T203000",
+        "start_date": "2020-11-18T17:30:00.000Z",
+        "end_date": "2020-11-18T19:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "Ved54LAmYXuRLZfXt2CuL",
+        "raw_start": "20201119T110000",
+        "raw_end": "20201119T122000",
+        "start_date": "2020-11-19T10:00:00.000Z",
+        "end_date": "2020-11-19T11:20:00.000Z",
+        "name": "4TPV106U  Méthodologie Chimie",
+        "type": "Groupes",
+        "location": "A21/ Salle 404"
+    },
+    {
+        "id": "IrbL-hM8yzEJn7hBFaBQD",
+        "raw_start": "20201119T140000",
+        "raw_end": "20201119T152000",
+        "start_date": "2020-11-19T13:00:00.000Z",
+        "end_date": "2020-11-19T14:20:00.000Z",
+        "name": "4TPV105U Biologie Animale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "9ciVw-Pr7Hy0ER_NfPw-O",
+        "raw_start": "20201119T153000",
+        "raw_end": "20201119T165000",
+        "start_date": "2020-11-19T14:30:00.000Z",
+        "end_date": "2020-11-19T15:50:00.000Z",
+        "name": "4TPV105U Biologie Microbienne",
+        "type": "Groupes",
+        "location": "A22/ Salle 202"
+    },
+    {
+        "id": "cv5RFENgflvFQocrKX_31",
+        "raw_start": "20201120T080000",
+        "raw_end": "20201120T092000",
+        "start_date": "2020-11-20T07:00:00.000Z",
+        "end_date": "2020-11-20T08:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 101"
+    },
+    {
+        "id": "Nkc4SI1mWcwBI4If0_e1c",
+        "raw_start": "20201120T110000",
+        "raw_end": "20201120T122000",
+        "start_date": "2020-11-20T10:00:00.000Z",
+        "end_date": "2020-11-20T11:20:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "CREMI - Bât. A28 Salle 206"
+    },
+    {
+        "id": "heydvHqlPItQn8BTikJXa",
+        "raw_start": "20201120T140000",
+        "raw_end": "20201120T152000",
+        "start_date": "2020-11-20T13:00:00.000Z",
+        "end_date": "2020-11-20T14:20:00.000Z",
+        "name": "4TPV106U LCO/Culture",
+        "type": "Remarques",
+        "location": "A21/ Salle 153"
+    },
+    {
+        "id": "F20kej43udHnIyuE-ySPa",
+        "raw_start": "20201123T080000",
+        "raw_end": "20201123T195000",
+        "start_date": "2020-11-23T07:00:00.000Z",
+        "end_date": "2020-11-23T18:50:00.000Z",
+        "name": "None",
+        "type": "GroupesIMSAT\\nIM101 GROUPE A2 IMSAT\\nPM101 SERIE A\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIE F\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE E\\nPS100 SERIE F\\n\\nGenerated",
+        "location": ""
+    },
+    {
+        "id": "MF7UH9RW8LPuoWOw6spQo",
+        "raw_start": "20201124T080000",
+        "raw_end": "20201124T195000",
+        "start_date": "2020-11-24T07:00:00.000Z",
+        "end_date": "2020-11-24T18:50:00.000Z",
+        "name": "None",
+        "type": "GroupesIMSAT\\nIM101 GROUPE A2 IMSAT\\nPM101 SERIE A\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIE F\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE E\\nPS100 SERIE F\\n\\nGenerated",
+        "location": ""
+    },
+    {
+        "id": "sPfa9tMaT_Rx9TZldVsJV",
+        "raw_start": "20201125T080000",
+        "raw_end": "20201125T195000",
+        "start_date": "2020-11-25T07:00:00.000Z",
+        "end_date": "2020-11-25T18:50:00.000Z",
+        "name": "None",
+        "type": "GroupesIMSAT\\nIM101 GROUPE A2 IMSAT\\nPM101 SERIE A\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIE F\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE E\\nPS100 SERIE F\\n\\nGenerated",
+        "location": ""
+    },
+    {
+        "id": "gOZjGwp9zdJNZgwXDnEMJ",
+        "raw_start": "20201126T080000",
+        "raw_end": "20201126T195000",
+        "start_date": "2020-11-26T07:00:00.000Z",
+        "end_date": "2020-11-26T18:50:00.000Z",
+        "name": "None",
+        "type": "GroupesIMSAT\\nIM101 GROUPE A2 IMSAT\\nPM101 SERIE A\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIE F\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE E\\nPS100 SERIE F\\n\\nGenerated",
+        "location": ""
+    },
+    {
+        "id": "4WP-aLYfLkKBOJEMcpPSD",
+        "raw_start": "20201127T080000",
+        "raw_end": "20201127T195000",
+        "start_date": "2020-11-27T07:00:00.000Z",
+        "end_date": "2020-11-27T18:50:00.000Z",
+        "name": "None",
+        "type": "GroupesIMSAT\\nIM101 GROUPE A2 IMSAT\\nPM101 SERIE A\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIE F\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE E\\nPS100 SERIE F\\n\\nGenerated",
+        "location": ""
+    },
+    {
+        "id": "u4-8ffJnzMTnFMYCOT-Qd",
+        "raw_start": "20201130T103000",
+        "raw_end": "20201130T130000",
+        "start_date": "2020-11-30T09:30:00.000Z",
+        "end_date": "2020-11-30T12:00:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "wQASERy8_iwYU-_iDyykb",
+        "raw_start": "20201130T140000",
+        "raw_end": "20201130T152000",
+        "start_date": "2020-11-30T13:00:00.000Z",
+        "end_date": "2020-11-30T14:20:00.000Z",
+        "name": "4TPV105U  Biologie Végétale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "60dQ0YIjvK2Z49lMOFS_W",
+        "raw_start": "20201130T153000",
+        "raw_end": "20201130T165000",
+        "start_date": "2020-11-30T14:30:00.000Z",
+        "end_date": "2020-11-30T15:50:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "IlHeNuHCFxCzt2GvDAtZc",
+        "raw_start": "20201130T170000",
+        "raw_end": "20201130T182000",
+        "start_date": "2020-11-30T16:00:00.000Z",
+        "end_date": "2020-11-30T17:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 205"
+    },
+    {
+        "id": "L7jMRP26h2QJTH1HOgk-u",
+        "raw_start": "20201201T093000",
+        "raw_end": "20201201T105000",
+        "start_date": "2020-12-01T08:30:00.000Z",
+        "end_date": "2020-12-01T09:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A22/ Salle 110"
+    },
+    {
+        "id": "rb47dYSR85vf9lnUP0MV0",
+        "raw_start": "20201201T110000",
+        "raw_end": "20201201T122000",
+        "start_date": "2020-12-01T10:00:00.000Z",
+        "end_date": "2020-12-01T11:20:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "aS83dQimPg0wgjgwJYtcy",
+        "raw_start": "20201201T140000",
+        "raw_end": "20201201T152000",
+        "start_date": "2020-12-01T13:00:00.000Z",
+        "end_date": "2020-12-01T14:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "vZdTH5g0Qe7DtTrQc25Mq",
+        "raw_start": "20201201T153000",
+        "raw_end": "20201201T165000",
+        "start_date": "2020-12-01T14:30:00.000Z",
+        "end_date": "2020-12-01T15:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "s7Or-hLYEzHXqNhXzUCHz",
+        "raw_start": "20201201T170000",
+        "raw_end": "20201201T182000",
+        "start_date": "2020-12-01T16:00:00.000Z",
+        "end_date": "2020-12-01T17:20:00.000Z",
+        "name": "4TTV103U Culture et Compétences Numériques",
+        "type": "Groupes",
+        "location": "A21/Salle Informatique B"
+    },
+    {
+        "id": "p2tPK3tdpujd4dL9BRUPN",
+        "raw_start": "20201202T080000",
+        "raw_end": "20201202T092000",
+        "start_date": "2020-12-02T07:00:00.000Z",
+        "end_date": "2020-12-02T08:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Groupes",
+        "location": "A21/ Salle 405"
+    },
+    {
+        "id": "swQF1ksXuqkY5VcYIyMp7",
+        "raw_start": "20201202T140000",
+        "raw_end": "20201202T152000",
+        "start_date": "2020-12-02T13:00:00.000Z",
+        "end_date": "2020-12-02T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 150"
+    },
+    {
+        "id": "oQ8thcioH9ryJIJD-gQLr",
+        "raw_start": "20201202T140000",
+        "raw_end": "20201202T152000",
+        "start_date": "2020-12-02T13:00:00.000Z",
+        "end_date": "2020-12-02T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 152"
+    },
+    {
+        "id": "TLeyZWSYvf07Ptm4FkuvW",
+        "raw_start": "20201202T183000",
+        "raw_end": "20201202T203000",
+        "start_date": "2020-12-02T17:30:00.000Z",
+        "end_date": "2020-12-02T19:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "IjMMkjeUr4NKXeipGq-lR",
+        "raw_start": "20201203T093000",
+        "raw_end": "20201203T122000",
+        "start_date": "2020-12-03T08:30:00.000Z",
+        "end_date": "2020-12-03T11:20:00.000Z",
+        "name": "4TPV105U Biologie Animale",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "w6KXvoLpEpqLF3vHrMrAw",
+        "raw_start": "20201203T140000",
+        "raw_end": "20201203T152000",
+        "start_date": "2020-12-03T13:00:00.000Z",
+        "end_date": "2020-12-03T14:20:00.000Z",
+        "name": "4TPV105U Biologie Animale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Charles DARWIN"
+    },
+    {
+        "id": "pMvJDp4K1JI52i1KkSqrQ",
+        "raw_start": "20201203T160000",
+        "raw_end": "20201203T200000",
+        "start_date": "2020-12-03T15:00:00.000Z",
+        "end_date": "2020-12-03T19:00:00.000Z",
+        "name": "None",
+        "type": "RemarquesI ISI501 GROUPE A1\\nCMI OPTIM 301\\nCMI OPTIM501A\\nIGM501 GROUPE A1 (ING. MATHS)\\nIN301 SERIE A\\nINF501 SERIE A\\nMA301 SERIE A\\nMF501 SERIE A (MATHSFOND)\\nMI301 GROUPE A1\\nMI301 GROUPE A2\\nMI501 Série A\\nMIASHS1 SERIE A\\nMIASHS3 SERIE A\\nMIASHS5 SERIE A\\nPM101 SERIE A\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIE F\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE E\\nPS100 SERIE F\\n\\nGene",
+        "location": ""
+    },
+    {
+        "id": "KEV0cinP3ksKQTsfHvU_u",
+        "raw_start": "20201203T153000",
+        "raw_end": "20201203T165000",
+        "start_date": "2020-12-03T14:30:00.000Z",
+        "end_date": "2020-12-03T15:50:00.000Z",
+        "name": "4TPV105U Biologie Microbienne",
+        "type": "Groupes",
+        "location": "A22/ Salle 202"
+    },
+    {
+        "id": "_nzsbVl4SXp7GfMijrfey",
+        "raw_start": "20201204T080000",
+        "raw_end": "20201204T092000",
+        "start_date": "2020-12-04T07:00:00.000Z",
+        "end_date": "2020-12-04T08:20:00.000Z",
+        "name": "None",
+        "type": "RemarquesI ISI501 GROUPE A1\\nCMI OPTIM 301\\nCMI OPTIM501A\\nIGM501 GROUPE A1 (ING. MATHS)\\nIN301 SERIE A\\nINF501 SERIE A\\nMA301 SERIE A\\nMF501 SERIE A (MATHSFOND)\\nMI301 GROUPE A1\\nMI301 GROUPE A2\\nMI501 Série A\\nMIASHS1 SERIE A\\nMIASHS3 SERIE A\\nMIASHS5 SERIE A\\nPM101 SERIE A\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIE F\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE E\\nPS100 SERIE F\\n\\nGene",
+        "location": ""
+    },
+    {
+        "id": "uevLbIORgr29E8g8X197q",
+        "raw_start": "20201204T080000",
+        "raw_end": "20201204T092000",
+        "start_date": "2020-12-04T07:00:00.000Z",
+        "end_date": "2020-12-04T08:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 101"
+    },
+    {
+        "id": "69ygGU-W_UQncKsoBzBbM",
+        "raw_start": "20201204T110000",
+        "raw_end": "20201204T122000",
+        "start_date": "2020-12-04T10:00:00.000Z",
+        "end_date": "2020-12-04T11:20:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": ""
+    },
+    {
+        "id": "m8aYB4VGSD5tqtBwkqQgt",
+        "raw_start": "20201204T140000",
+        "raw_end": "20201204T152000",
+        "start_date": "2020-12-04T13:00:00.000Z",
+        "end_date": "2020-12-04T14:20:00.000Z",
+        "name": "4TPV106U LCO/Culture",
+        "type": "Remarques",
+        "location": "A21/ Salle 153"
+    },
+    {
+        "id": "XI-lofMdZIAuSs-7SNrls",
+        "raw_start": "20201207T093000",
+        "raw_end": "20201207T122000",
+        "start_date": "2020-12-07T08:30:00.000Z",
+        "end_date": "2020-12-07T11:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "D2hcyJMO3MCAVZ-4apCjI",
+        "raw_start": "20201207T140000",
+        "raw_end": "20201207T152000",
+        "start_date": "2020-12-07T13:00:00.000Z",
+        "end_date": "2020-12-07T14:20:00.000Z",
+        "name": "4TPV105U  Biologie Végétale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "Y89mHbwuzCCh0VnXspfU4",
+        "raw_start": "20201207T153000",
+        "raw_end": "20201207T165000",
+        "start_date": "2020-12-07T14:30:00.000Z",
+        "end_date": "2020-12-07T15:50:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "QGLwWJxAKZFh197f8seeZ",
+        "raw_start": "20201207T170000",
+        "raw_end": "20201207T182000",
+        "start_date": "2020-12-07T16:00:00.000Z",
+        "end_date": "2020-12-07T17:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 205"
+    },
+    {
+        "id": "O031gKBufKWr8a9U7Kfix",
+        "raw_start": "20201208T093000",
+        "raw_end": "20201208T105000",
+        "start_date": "2020-12-08T08:30:00.000Z",
+        "end_date": "2020-12-08T09:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A22/ Salle 112"
+    },
+    {
+        "id": "rDIRCE9VKybhxLqqURtXF",
+        "raw_start": "20201208T140000",
+        "raw_end": "20201208T152000",
+        "start_date": "2020-12-08T13:00:00.000Z",
+        "end_date": "2020-12-08T14:20:00.000Z",
+        "name": "4TPV105U Biologie Animale",
+        "type": "Groupes",
+        "location": "A22/Amphithéâtre Rosalind FRANKLIN"
+    },
+    {
+        "id": "SUDMlIqyI8iCfhQ014Cy4",
+        "raw_start": "20201208T153000",
+        "raw_end": "20201208T165000",
+        "start_date": "2020-12-08T14:30:00.000Z",
+        "end_date": "2020-12-08T15:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "vxekI3lmfvPsFjmsMdwJj",
+        "raw_start": "20201209T093000",
+        "raw_end": "20201209T122000",
+        "start_date": "2020-12-09T08:30:00.000Z",
+        "end_date": "2020-12-09T11:20:00.000Z",
+        "name": "4TPV103U Physique",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "Y3Wb8vh5r5Cpsti4XIDQ2",
+        "raw_start": "20201209T140000",
+        "raw_end": "20201209T152000",
+        "start_date": "2020-12-09T13:00:00.000Z",
+        "end_date": "2020-12-09T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 150"
+    },
+    {
+        "id": "_1dRYDN9WWmPClpUY2YDP",
+        "raw_start": "20201209T140000",
+        "raw_end": "20201209T152000",
+        "start_date": "2020-12-09T13:00:00.000Z",
+        "end_date": "2020-12-09T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 152"
+    },
+    {
+        "id": "v_v-gXgbfnUW8pvS3mRFl",
+        "raw_start": "20201209T183000",
+        "raw_end": "20201209T203000",
+        "start_date": "2020-12-09T17:30:00.000Z",
+        "end_date": "2020-12-09T19:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "7AiMzXVLT07Hs6QpvAY-a",
+        "raw_start": "20201210T093000",
+        "raw_end": "20201210T122000",
+        "start_date": "2020-12-10T08:30:00.000Z",
+        "end_date": "2020-12-10T11:20:00.000Z",
+        "name": "4TPV105U Biologie Animale",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "FLbd_p9nSQA2v3qgRt531",
+        "raw_start": "20201211T080000",
+        "raw_end": "20201211T092000",
+        "start_date": "2020-12-11T07:00:00.000Z",
+        "end_date": "2020-12-11T08:20:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Groupes",
+        "location": "A22/ Salle 101"
+    },
+    {
+        "id": "fY_mwpAwRnmVV-lyWRZ5R",
+        "raw_start": "20201211T110000",
+        "raw_end": "20201211T122000",
+        "start_date": "2020-12-11T10:00:00.000Z",
+        "end_date": "2020-12-11T11:20:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 101"
+    },
+    {
+        "id": "nfJS8_Cl1uWxeLUV1q4iQ",
+        "raw_start": "20201211T140000",
+        "raw_end": "20201211T152000",
+        "start_date": "2020-12-11T13:00:00.000Z",
+        "end_date": "2020-12-11T14:20:00.000Z",
+        "name": "4TPV106U LCO/Culture",
+        "type": "Remarques",
+        "location": "A21/ Salle 153"
+    },
+    {
+        "id": "mUCtSgIJnsfrH0jA7BosE",
+        "raw_start": "20201214T140000",
+        "raw_end": "20201214T152000",
+        "start_date": "2020-12-14T13:00:00.000Z",
+        "end_date": "2020-12-14T14:20:00.000Z",
+        "name": "4TPV105U  Biologie Végétale",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "VW-oua0UZ929jd7PO7SVH",
+        "raw_start": "20201215T093000",
+        "raw_end": "20201215T105000",
+        "start_date": "2020-12-15T08:30:00.000Z",
+        "end_date": "2020-12-15T09:50:00.000Z",
+        "name": "4TPV102U Mathématiques",
+        "type": "Groupes",
+        "location": "A29/ Salle 102"
+    },
+    {
+        "id": "IsbVk9KKr1ruReL3V8X6t",
+        "raw_start": "20201215T170000",
+        "raw_end": "20201215T182000",
+        "start_date": "2020-12-15T16:00:00.000Z",
+        "end_date": "2020-12-15T17:20:00.000Z",
+        "name": "4TTV103U Culture et Compétences Numériques",
+        "type": "Groupes",
+        "location": "A21/Salle Informatique B"
+    },
+    {
+        "id": "A_8JiKJfQOy57D9AzYHwL",
+        "raw_start": "20201216T140000",
+        "raw_end": "20201216T152000",
+        "start_date": "2020-12-16T13:00:00.000Z",
+        "end_date": "2020-12-16T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 150"
+    },
+    {
+        "id": "34rLstzEFyW-AKjI2FeHL",
+        "raw_start": "20201216T140000",
+        "raw_end": "20201216T152000",
+        "start_date": "2020-12-16T13:00:00.000Z",
+        "end_date": "2020-12-16T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 152"
+    },
+    {
+        "id": "DZEktawetJglrWs_PVFDw",
+        "raw_start": "20201216T183000",
+        "raw_end": "20201216T203000",
+        "start_date": "2020-12-16T17:30:00.000Z",
+        "end_date": "2020-12-16T19:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "3OfOFT37c9D4YYLU2nS-6",
+        "raw_start": "20201217T080000",
+        "raw_end": "20201217T105000",
+        "start_date": "2020-12-17T07:00:00.000Z",
+        "end_date": "2020-12-17T09:50:00.000Z",
+        "name": "4TPV107U Enjeux/défis de la biologie",
+        "type": "Remarques",
+        "location": "A29/ Amphithéâtre B"
+    },
+    {
+        "id": "TQtZGi2bPULI77IPFpkNi",
+        "raw_start": "20201218T140000",
+        "raw_end": "20201218T180000",
+        "start_date": "2020-12-18T13:00:00.000Z",
+        "end_date": "2020-12-18T17:00:00.000Z",
+        "name": "4TPV101U Chimie",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "UBNKG-zLRsAjTdJRJhlHq",
+        "raw_start": "20210106T140000",
+        "raw_end": "20210106T152000",
+        "start_date": "2021-01-06T13:00:00.000Z",
+        "end_date": "2021-01-06T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 150"
+    },
+    {
+        "id": "vpP2OZkEy_PpvVDkyfSjH",
+        "raw_start": "20210106T140000",
+        "raw_end": "20210106T152000",
+        "start_date": "2021-01-06T13:00:00.000Z",
+        "end_date": "2021-01-06T14:20:00.000Z",
+        "name": "4TPV108U Anglais",
+        "type": "Remarques",
+        "location": "A21/ Salle 152"
+    },
+    {
+        "id": "IMfv_S8AplcSJPUTgojxR",
+        "raw_start": "20210106T183000",
+        "raw_end": "20210106T203000",
+        "start_date": "2021-01-06T17:30:00.000Z",
+        "end_date": "2021-01-06T19:30:00.000Z",
+        "name": "4TTV108U Initiation anglais débutant S1",
+        "type": "Remarques\\nPM101 SERIE B\\nPM101 SERIE C\\nPM101 SERIE D\\nPM101 SERIE E\\nPM101 SERIEF\\nPS100 SERIE A\\nPS100 SERIE B\\nPS100 SERIE C\\nPS100 SERIE D\\nPS100 SERIE",
+        "location": "A21/ Salle 160"
+    },
+    {
+        "id": "Je6EeB0cmc73B60__TKEm",
+        "raw_start": "20210111T103000",
+        "raw_end": "20210111T130000",
+        "start_date": "2021-01-11T09:30:00.000Z",
+        "end_date": "2021-01-11T12:00:00.000Z",
+        "name": "4TPV104U Initiation aux géosciences",
+        "type": "Groupes",
+        "location": ""
+    },
+    {
+        "id": "_NPom1K4e8-Fm4_FhybCY",
+        "raw_start": "20210113T080000",
+        "raw_end": "20210113T120000",
+        "start_date": "2021-01-13T07:00:00.000Z",
+        "end_date": "2021-01-13T11:00:00.000Z",
+        "name": "4TPV105U  Biologie Végétale",
+        "type": "Remarques",
+        "location": ""
+    },
+    {
+        "id": "dYYvFROcMu9e9PzvQYbAM",
+        "raw_start": "20210115T080000",
+        "raw_end": "20210115T105000",
+        "start_date": "2021-01-15T07:00:00.000Z",
+        "end_date": "2021-01-15T09:50:00.000Z",
+        "name": "4TTV103U Culture et Compétences Numériques",
+        "type": "Remarques",
+        "location": ""
+    }
+]

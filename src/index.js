@@ -3,11 +3,16 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import * as serviceWorker from "./serviceWorker";
 import Timetable from "./Pages/Timetable";
+import { Switch, Router, Route, BrowserRouter } from "react-router-dom";
+import Timetable2 from "./Pages/Timetable2";
 
 ReactDOM.render(
-	<React.StrictMode>
-		<Timetable />
-	</React.StrictMode>,
+	<BrowserRouter>
+		<Switch>
+			<Route path="/v2"><Timetable2/></Route>
+			<Route path="/"><Timetable /></Route>
+		</Switch>
+	</BrowserRouter>,
 	document.getElementById("root")
 );
 

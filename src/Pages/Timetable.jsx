@@ -35,10 +35,8 @@ class Timetable extends Component {
 
 	renderScheduler() {
 		return (
-			<div>
-				<div className="scheduler-container">
-					<Scheduler events={this.state.events} />
-				</div>
+			<div className="scheduler-container">
+				<Scheduler events={this.state.events} />
 			</div>
 		);
 	}

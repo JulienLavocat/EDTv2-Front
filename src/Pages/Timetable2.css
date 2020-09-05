@@ -1,0 +1,10 @@
+.timetable2-app {
+	display: flex;
+	min-height: 100%;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+}
+
+.timetable2-app-main {
+	flex-grow: 1;
+	padding: 2em;
+}

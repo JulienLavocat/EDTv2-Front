@@ -19,10 +19,15 @@ export default class Scheduler extends Component {
 			"next"
 		];
 
-		scheduler.config.container_autoresize = true;
+		scheduler.config.responsive_lightbox = true;
+		//scheduler.config.container_autoresize = true;
 		scheduler.config.first_hour = 7;
 		scheduler.config.last_hour = 20;
 		scheduler.config.start_on_monday = true;
+		scheduler.ignore_week = function(date){
+			if (date.getDay() == 6 || date.getDay() == 0) //hides Saturdays and Sundays
+				return true;
+		};
 
 		scheduler.templates.event_text = function(start,end,e){
 			return "<b>" + e.name + "</b><br><i>" + e.location + "</i>";

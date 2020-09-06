@@ -56,8 +56,8 @@ export function register(toast, config) {
 			}
 		});
 
-		window.addEventListener("online", () => toast("Application is now working online"));
-		window.addEventListener("offline", () => toast("Application is now working offline"));
+		window.addEventListener("online", () => { console.log("online"); toast.info("Application is now working online");});
+		window.addEventListener("offline", () => {console.log("offline"); toast.warn("Application is now working offline");});
 	}
 }
 

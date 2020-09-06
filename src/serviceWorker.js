@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 // This optional code is used to register a service worker.
 // register() is not called by default.
 
@@ -21,8 +22,10 @@ const isLocalhost = Boolean(
 );
 
 export function register(config) {
+	// eslint-disable-next-line no-undef
 	if (process.env.NODE_ENV === "production" && "serviceWorker" in navigator) {
 		// The URL constructor is available in all browsers that support SW.
+		// eslint-disable-next-line no-undef
 		const publicUrl = new URL(process.env.PUBLIC_URL, window.location.href);
 		if (publicUrl.origin !== window.location.origin) {
 			// Our service worker won't work if PUBLIC_URL is on a different origin
@@ -32,6 +35,7 @@ export function register(config) {
 		}
 
 		window.addEventListener("load", () => {
+			// eslint-disable-next-line no-undef
 			const swUrl = `${process.env.PUBLIC_URL}/service-worker.js`;
 
 			if (isLocalhost) {
@@ -54,49 +58,53 @@ export function register(config) {
 	}
 }
 
-function registerValidSW(swUrl, config) {
-	navigator.serviceWorker
-		.register(swUrl)
-		.then(registration => {
-			console.log("Service Worker registered");
-			registration.onupdatefound = () => {
-				const installingWorker = registration.installing;
-				if (installingWorker == null) {
-					return;
-				}
-				installingWorker.onstatechange = () => {
-					if (installingWorker.state === "installed") {
-						if (navigator.serviceWorker.controller) {
-							// At this point, the updated precached content has been fetched,
-							// but the previous service worker will still serve the older
-							// content until all client tabs are closed.
-							console.log(
-								"New content is available and will be used when all " +
+async function registerValidSW(swUrl, config) {
+	try {
+		const registration = await navigator.serviceWorker.register(swUrl);
+
+		console.log("Service Worker registered");
+
+		window.on("online", () => toast("Application is now working online"));
+		window.on("offline", () => toast("Application is now working offline"));
+
+		registration.onupdatefound = () => {
+			const installingWorker = registration.installing;
+			if (installingWorker == null) {
+				return;
+			}
+			installingWorker.onstatechange = () => {
+				if (installingWorker.state === "installed") {
+					if (navigator.serviceWorker.controller) {
+						// At this point, the updated precached content has been fetched,
+						// but the previous service worker will still serve the older
+						// content until all client tabs are closed.
+						console.log(
+							"New content is available and will be used when all " +
 								"tabs for this page are closed. See https://bit.ly/CRA-PWA."
-							);
+						);
 
-							// Execute callback
-							if (config && config.onUpdate) {
-								config.onUpdate(registration);
-							}
-						} else {
-							// At this point, everything has been precached.
-							// It's the perfect time to display a
-							// "Content is cached for offline use." message.
-							console.log("Content is cached for offline use.");
+						// Execute callback
+						if (config && config.onUpdate) {
+							config.onUpdate(registration);
+						}
+					} else {
+						// At this point, everything has been precached.
+						// It's the perfect time to display a
+						// "Content is cached for offline use." message.
+						console.log("Content is cached for offline use.");
 
-							// Execute callback
-							if (config && config.onSuccess) {
-								config.onSuccess(registration);
-							}
+						// Execute callback
+						if (config && config.onSuccess) {
+							config.onSuccess(registration);
 						}
 					}
-				};
+				}
 			};
-		})
-		.catch(error => {
-			console.error("Error during service worker registration:", error);
-		});
+		};
+
+	} catch (error) {
+		console.error("Error during service worker registration:", error);
+	}
 }
 
 function checkValidServiceWorker(swUrl, config) {

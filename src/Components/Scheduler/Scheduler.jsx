@@ -20,7 +20,6 @@ export default class Scheduler extends Component {
 		];
 
 		scheduler.config.responsive_lightbox = true;
-		//scheduler.config.container_autoresize = true;
 		scheduler.config.first_hour = 7;
 		scheduler.config.last_hour = 20;
 		scheduler.config.start_on_monday = true;
@@ -28,10 +27,17 @@ export default class Scheduler extends Component {
 			if (date.getDay() == 6 || date.getDay() == 0) //hides Saturdays and Sundays
 				return true;
 		};
+		scheduler.templates.week_date = function(start, end){
+
+			const startFormatted = scheduler.templates.day_date(start).replace(start.getFullYear(), "");
+			const endFormatted = scheduler.templates.day_date(scheduler.date.add(end,-1,"day")).replace(end.getFullYear(), "");
+			return `${startFormatted} &ndash; ${endFormatted}`;
+		};
 
 		scheduler.templates.event_text = function(start,end,e){
 			return "<b>" + e.name + "</b><br><i>" + e.location + "</i>";
 		};
+
 
 		// eslint-disable-next-line react/prop-types
 		const { events } = this.props;

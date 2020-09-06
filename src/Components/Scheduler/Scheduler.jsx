@@ -35,7 +35,7 @@ export default class Scheduler extends Component {
 
 		// eslint-disable-next-line react/prop-types
 		const { events } = this.props;
-		scheduler.init(this.schedulerContainer);
+		scheduler.init(this.schedulerContainer, new Date(), "day");
 		scheduler.clearAll();
 		scheduler.parse(events);
 	}

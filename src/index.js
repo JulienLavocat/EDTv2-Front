@@ -8,6 +8,8 @@ import Timetable2 from "./Pages/Timetable2";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
+toast.configure();
+
 ReactDOM.render(
 	<BrowserRouter>
 		<Switch>

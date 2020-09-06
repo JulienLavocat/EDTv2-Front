@@ -64,8 +64,8 @@ async function registerValidSW(swUrl, config) {
 
 		console.log("Service Worker registered");
 
-		window.on("online", () => toast("Application is now working online"));
-		window.on("offline", () => toast("Application is now working offline"));
+		window.addEventListener("online", () => toast("Application is now working online"));
+		window.addEventListener("offline", () => toast("Application is now working offline"));
 
 		registration.onupdatefound = () => {
 			const installingWorker = registration.installing;

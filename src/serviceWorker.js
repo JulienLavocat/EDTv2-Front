@@ -21,7 +21,7 @@ const isLocalhost = Boolean(
 	)
 );
 
-export function register(config) {
+export function register(toast, config) {
 	// eslint-disable-next-line no-undef
 	if (process.env.NODE_ENV === "production" && "serviceWorker" in navigator) {
 		// The URL constructor is available in all browsers that support SW.

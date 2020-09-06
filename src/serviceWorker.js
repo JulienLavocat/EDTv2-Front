@@ -55,6 +55,9 @@ export function register(toast, config) {
 				registerValidSW(swUrl, config);
 			}
 		});
+
+		window.addEventListener("online", () => toast("Application is now working online"));
+		window.addEventListener("offline", () => toast("Application is now working offline"));
 	}
 }
 
@@ -63,9 +66,6 @@ async function registerValidSW(swUrl, config) {
 		const registration = await navigator.serviceWorker.register(swUrl);
 
 		console.log("Service Worker registered");
-
-		window.addEventListener("online", () => toast("Application is now working online"));
-		window.addEventListener("offline", () => toast("Application is now working offline"));
 
 		registration.onupdatefound = () => {
 			const installingWorker = registration.installing;

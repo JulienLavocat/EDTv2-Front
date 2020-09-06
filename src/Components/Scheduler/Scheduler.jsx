@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "dhtmlx-scheduler";
-import "dhtmlx-scheduler/codebase/ext/dhtmlxscheduler_container_autoresize";
 import "dhtmlx-scheduler/codebase/dhtmlxscheduler_material.css";
 import "./Scheduler.css";
 

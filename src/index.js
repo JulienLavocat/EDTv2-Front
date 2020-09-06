@@ -6,6 +6,7 @@ import Timetable from "./Pages/Timetable";
 import { Switch, Router, Route, BrowserRouter } from "react-router-dom";
 import Timetable2 from "./Pages/Timetable2";
 import { toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 ReactDOM.render(
 	<BrowserRouter>

@@ -23,12 +23,8 @@ const isLocalhost = Boolean(
 
 export function register(toast, config) {
 
-	console.log("toast", toast);
-
-	// eslint-disable-next-line no-undef
 	if (process.env.NODE_ENV === "production" && "serviceWorker" in navigator) {
 		// The URL constructor is available in all browsers that support SW.
-		// eslint-disable-next-line no-undef
 		const publicUrl = new URL(process.env.PUBLIC_URL, window.location.href);
 		if (publicUrl.origin !== window.location.origin) {
 			// Our service worker won't work if PUBLIC_URL is on a different origin
@@ -38,12 +34,11 @@ export function register(toast, config) {
 		}
 
 		window.addEventListener("load", () => {
-			// eslint-disable-next-line no-undef
 			const swUrl = `${process.env.PUBLIC_URL}/service-worker.js`;
 
 			if (isLocalhost) {
 				// This is running on localhost. Let's check if a service worker still exists or not.
-				checkValidServiceWorker(swUrl, config);
+				checkValidServiceWorker(toast, swUrl, config);
 
 				// Add some additional logging to localhost, pointing developers to the
 				// service worker/PWA documentation.
@@ -52,19 +47,18 @@ export function register(toast, config) {
 						"This web app is being served cache-first by a service " +
 						"worker. To learn more, visit https://bit.ly/CRA-PWA"
 					);
+
+
 				});
 			} else {
 				// Is not localhost. Just register service worker
-				registerValidSW(swUrl, config);
+				registerValidSW(toast, swUrl, config);
 			}
 		});
-
-		window.addEventListener("online", () => { console.log("online"); toast.info("Application is now working online");});
-		window.addEventListener("offline", () => {console.log("offline"); toast.warn("Application is now working offline");});
 	}
 }
 
-async function registerValidSW(swUrl, config) {
+async function registerValidSW(toast, swUrl, config) {
 	try {
 		const registration = await navigator.serviceWorker.register(swUrl);
 
@@ -86,6 +80,15 @@ async function registerValidSW(swUrl, config) {
 								"tabs for this page are closed. See https://bit.ly/CRA-PWA."
 						);
 
+						toast("A new update is available, close all tabs to update.", {
+							position: "bottom-center",
+							autoClose: 3000,
+							hideProgressBar: true,
+							closeOnClick: true,
+							pauseOnHover: true,
+							draggable: true,
+							progress: undefined,
+						});
 						// Execute callback
 						if (config && config.onUpdate) {
 							config.onUpdate(registration);
@@ -110,7 +113,7 @@ async function registerValidSW(swUrl, config) {
 	}
 }
 
-function checkValidServiceWorker(swUrl, config) {
+function checkValidServiceWorker(toast, swUrl, config) {
 	// Check if the service worker can be found. If it can't reload the page.
 	fetch(swUrl, {
 		headers: {
@@ -132,7 +135,7 @@ function checkValidServiceWorker(swUrl, config) {
 				});
 			} else {
 				// Service worker found. Proceed as normal.
-				registerValidSW(swUrl, config);
+				registerValidSW(toast, swUrl, config);
 			}
 		})
 		.catch(() => {
